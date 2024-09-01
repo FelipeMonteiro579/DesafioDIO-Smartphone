@@ -1,0 +1,14 @@
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.exe
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.deps.json
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.runtimeconfig.json
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.dll
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\bin\Debug\net8.0\Smartphone.pdb
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfoInputs.cache
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.AssemblyInfo.cs
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.csproj.CoreCompileInputs.cache
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.dll
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\refint\Smartphone.dll
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.pdb
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\Smartphone.genruntimeconfig.cache
+E:\Programming\C-Sharp\DIO\ConsoleApps\Smartphone\Smartphone\obj\Debug\net8.0\ref\Smartphone.dll
